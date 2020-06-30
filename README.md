@@ -6,6 +6,11 @@
 
 A tiny, fast JavaScript parser, written completely in JavaScript.
 
+## JSTransformationBenchmarks
+
+This is the version of acorn for benchmarking our transformation tools.
+Use branch `benchmark-stable` for those purposes.
+
 ## Community
 
 Acorn is open source software released under an
